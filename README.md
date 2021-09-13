@@ -1,2 +1,2 @@
 # smartgrid_db
-create a smartgrid model with a database NoSQL
+create a smartgrid model with a NoSQL database.
